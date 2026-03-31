@@ -61,10 +61,6 @@ Este projeto foi criado com fins de estudo para reforçar conceitos fundamentais
 * Linguagem C
 * Compilador GCC
 
-## 👨‍💻 Autor
+## 👨‍💻 Autoria
 
-Seu Nome Aqui
-
----
-
-✨ Sinta-se à vontade para contribuir ou dar sugestões!
+Pedro Odalves
